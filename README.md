@@ -8,4 +8,4 @@ api.js 借鉴了 Zepto.js，去掉了开发 APICloud 应用时不必要的方法
 
 ##开发指南
 
-* 前端框架开发指南[http://docs.apicloud.com/APICloud/技术专题/framework-dev-guide](http://docs.apicloud.com/APICloud/技术专题/framework-dev-guide)
+* 前端框架开发指南([http://docs.apicloud.com/APICloud/技术专题/framework-dev-guide](http://docs.apicloud.com/APICloud/技术专题/framework-dev-guide))
